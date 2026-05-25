@@ -1,0 +1,6 @@
+{
+  "name": "Fuga verso la Pensione",
+  "description": "Un'ironica escape room previdenziale a tema INPS. Supera i meandri della burocrazia, della transizione digitale e dell'algoritmo contributivo per conquistare l'agognato riposo pensionistico!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
